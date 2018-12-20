@@ -1,0 +1,16 @@
+{
+  "name": "mdb-free_4.5.16",
+  "version": "1.0.0",
+  "description": "Material Design for Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "devDependencies": {}
+}
